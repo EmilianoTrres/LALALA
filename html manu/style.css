@@ -18,8 +18,11 @@
     flex: 0.25;
     padding: 20px;
 }
-
 .colum2{
     flex: 1;
     padding: 15px;
+}
+.img1{
+    width: 100px;
+    height: 100px;
 }
