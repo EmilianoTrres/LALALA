@@ -127,3 +127,19 @@ footer{
 .pasos{
     background-color: rgb(197, 184, 137);
 }
+
+
+
+.contenedor{
+    display: flex;
+}
+
+.colum1{
+    flex: 0.25;
+    padding: 20px;
+}
+
+.colum2{
+    flex: 1;
+    padding: 15px;
+}
