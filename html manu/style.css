@@ -6,7 +6,7 @@
     color: rgb(248, 248, 248);
 }
 .barra{
-    background-color:rgb(0, 0, 0);
+    background-color:#0C2340;
     display: flex;
     font-family: 'Courier New', Courier, monospace;
     justify-content: space-around;
