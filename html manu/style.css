@@ -1,6 +1,13 @@
 .contenedor{
     display: flex;
 }
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #B22222;
+}
+header{
+    background-color: #F08080;
+}
 .barra{
     display: flex; 
     justify-content: start;
