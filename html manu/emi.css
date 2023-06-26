@@ -1,31 +1,70 @@
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #67B844;
+    font-family: Verdana, Geneva, Tahoma;
+    background-color: #E6E6FA;
 }
 .fondo{
-    background-color: #335C22;
+    background-color: #8542B8;
+    color: #FFFFFF;
+    /*background-image: url(imagesEmi/Tay.jpeg);
+    background-size: contain;*/
     text-align: center;
     padding: 10px 20px;
 }
 .barra{
     display: flex; 
     justify-content: space-evenly;
-    background-color: #5A754F;
+    background-color: #52316B;
     padding: 5px 10px;
 }
 .enlace{
     display: inline-block;
     padding: 10px 20px;
-    color: black;
+    color: #FFFFFF;
     text-decoration: none;
-    background-color: #5A754F;
+    background-color: #52316B;
 }
 .contenedor{
     display: flex;
-    flex: absolute;
-    background-color: #81A871;
+    background-color: #7FB877;
+    font-family: tahoma;
 }
-.medio{
+.div1{
     flex: 100%;
-    padding: 0;
+    padding: 20px;
+}
+.img1{
+    height: 250px;
+    width: 500px;
+}
+.img2{
+    height: 250px;
+    width: 350x;
+}
+.img3{
+    height: 250px;
+    width: 350px;
+}
+.img4{
+    height: 250px;
+    width: 350px;
+}
+.img5{
+    height: 250px;
+    width: 350px;
+}
+.img6{
+    height: 250px;
+    width: 500px;
+}
+.img7{
+    height: 250px;
+    width: 500px;
+}
+.img8{
+    height: 250px;
+    width: 350px;
+}
+.img9{
+    height: 250px;
+    width: 350px;
 }
